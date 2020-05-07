@@ -1,1 +1,0 @@
-LC_ALL=C TZ=GMT ./sar -C -A -f tests/data-9.1.6.tmp > tests/out.data-9.1.6.tmp

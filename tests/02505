@@ -1,1 +1,0 @@
-LC_ALL=C ./iostat -2 1 2>&1 | grep "Usage:" >/dev/null

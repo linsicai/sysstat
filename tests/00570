@@ -1,1 +1,0 @@
-./sadf -r -O debug tests/data.tmp -C -- -A > tests/out.sadf-r.tmp

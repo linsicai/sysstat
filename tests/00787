@@ -1,1 +1,0 @@
-LC_ALL=C ./sadf -H tests/data-ukwn > tests/out.sadf-data-ukwn.tmp
